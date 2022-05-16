@@ -1,7 +1,7 @@
 
 # Postal Code Of Nepal
 
-Postal Codes of Nepal (Open Source Json Api)
+Postal Codes of Nepal (JSON)
 
 # Acronyms
 
